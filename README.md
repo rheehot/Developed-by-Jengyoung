@@ -1,4 +1,4 @@
 #Front-End First Project !
 TO-DO LIST
-and I am learning Git now!
-FIGHTING!!!
+
+1. CRUD 구현
